@@ -1,9 +1,9 @@
-import InputFocusButton from "./input";
+import Parent from "./Parent";
 
 function App() {
   return (
     <div>
-      <InputFocusButton />
+      <Parent />
     </div>
   );
 }
